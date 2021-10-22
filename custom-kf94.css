@@ -1,0 +1,64 @@
+.banner-content-kf94 {
+	text-align: center;
+}
+.banner-content-kf94 h2 {
+    margin-top: 20px;
+	font-size:50px; 
+	text-align:center;
+	font-weight: 800;
+	letter-spacing:0em;
+	border-bottom: 3px solid #000;
+	display: inline-block;
+}
+.banner-content-kf94 h3 {
+	font-size:17px; 
+	text-align:center;
+	display: block;
+    font-weight: 700;
+	margin: 0px 0 20px;
+    font-style: italic;
+}
+.surgical-mask-kf94 {
+	background: url(images/bg-surgical-ms.webp);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-attachment: fixed;
+}
+
+.w-435 {
+	width: 435px;
+}
+
+.big-title-kf94 {
+	font-size:50px; 
+	letter-spacing:0em;
+	text-align:center;
+	font-weight: 900;
+	border-bottom: 3px solid #000;
+	font-family: 'Open Sans', sans-serif;
+	display: inline-block;
+	color: #000;
+	line-height: 50px;
+	margin-bottom: 25px;
+}
+
+.box-kf94 {
+	background: url(images/k-94/kids1-1.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 960px;
+	margin: 0 auto 10px;
+	padding: 20px;
+	color: #fff;
+	text-align: center;
+}
+
+.btn-buy-kf94 {
+	display: inline-block;
+	padding: 15px 100px;
+	background: #91fbff;
+	font-size: 16px;
+	color: #333;
+	transition: 1s;
+	margin: 50px 0;
+}

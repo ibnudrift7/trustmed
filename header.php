@@ -37,6 +37,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="custom.css">
+  <link rel="stylesheet" type="text/css" href="custom-kf94.css">
+  <link rel="stylesheet" type="text/css" href="custom-guard.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="responsive.css">
   <script type="text/javascript" src="myscript.js"></script>
 

@@ -120,7 +120,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 mb-4">
           <div class="item-produk ing-pro">
             <div class="img-produk">
               <img src="images/produk-inguard-mask.webp" class="img-responsive" alt="">
@@ -132,7 +132,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 mb-4">
           <div class="item-produk ing-pro">
             <div class="img-produk">
               <img src="images/gp3.jpg" class="img-responsive" alt="">
@@ -151,8 +151,8 @@
             </div>
             <div class="text-produk">
               <h4>4 LAYERS PROTECTION WITH DOUBLE FILTRATION</h4>
-              <h2>KF-94 <span class="text-danger">KIDS</span></h2>
-              <a href="kf94-kids.php" class="btn-view-more">View more</a>
+              <h2>KF-94 KIDS</h2>
+              <a href="kf-94.php" class="btn-view-more">View more</a>
             </div>
           </div>
         </div>

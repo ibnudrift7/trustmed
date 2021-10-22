@@ -1,0 +1,73 @@
+.banner-content-guard {
+	text-align: center;
+}
+.banner-content-guard h3 {
+	
+	text-align:center;
+	display: block;
+	letter-spacing:0em;
+}
+.banner-content-guard h2 {
+	font-size:50px; 
+	text-align:center;
+	font-weight: bold;
+	display: inline-block;
+	margin: 50px 0 5px;
+	letter-spacing:0.25em;
+}
+
+
+.produk-img-guard {
+	display: inline-block;
+}
+
+.w-435 {
+	width: 435px;
+}
+
+.w-600 {
+	width: 760px;
+}
+
+.w-250 {
+	width: 250px;
+}
+
+.guard-plus {
+	background: url(images/guard/guard5.png);
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-attachment: fixed;
+}
+
+.product-dest-guard {
+	font-size:17px; 
+	text-align:center;
+	letter-spacing:0em;
+}
+
+.small-title-guard {
+	font-size:40px; 
+	text-align:center;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+.big-title-guard {
+	font-size:50px; 
+	letter-spacing:0.25em;
+	text-align:center;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	color: #000;
+}
+
+.box-sugical-guard {
+	background: url(images/guard/gp3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 960px;
+	margin: 0 auto 10px;
+	padding: 20px;
+	color: #fff;
+	text-align: center;
+}
