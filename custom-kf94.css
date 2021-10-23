@@ -62,3 +62,21 @@
 	transition: 1s;
 	margin: 50px 0;
 }
+
+@media screen and (max-width: 768px) {
+    .box-kf94 {
+        background: url(images/k-94/kids1-1.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+		background-position: center;
+        width: 100%;
+        margin: 0 auto 10px;
+        padding: 20px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .tree-kf94 span {
+        font-size: 10px;;
+    }
+}

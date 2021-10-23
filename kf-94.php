@@ -60,7 +60,7 @@
                 <div class="product-dest mt-5 mb-3">
                     <p>TRUSTMED berkomitmen untuk menyediakan masker berkualitas, aman dan <br> nyaman dipakai sehari-hari untuk semua kalangan baik dewasa maupun anak- <br> anak.</p>
                 </div>
-                <div class="row g-2 justify-content-center w-600 mx-auto">
+                <div class="row g-2 justify-content-center w-75 mx-auto">
                     <div class="col-12 img-section-mask">
                         <img class="w-100" src="images/k-94/kids4-1.jpeg" alt="">
                     </div>
@@ -120,17 +120,17 @@
                         <h2 class="text-dark">KF94 KIDS</h2>
                         <h3 class="text-dark">4-PLY MASK-Double Protection</h3>
                     </div>
-                    <div class="icon-tree">
+                    <div class="icon-tree tree-kf94 mx-auto">
                         <div class="row justify-content-center">
-                            <div class="col-md-2">
+                            <div class="col-md-2 col-4">
                                 <img class="d-block mx-auto mb-1" src="images/bacteria.webp" alt="">
                                 <span class="text-dark fw-bold">Double Filtration</span>
                             </div>
-                            <div class="col-md-2">
+                            <div class="col-md-2 col-4">
                                 <img class="d-block mx-auto mb-1" src="images/comfortable.webp" alt="">
                                 <span class="text-dark fw-bold">Hypoallergenic</span>
                             </div>
-                            <div class="col-md-2">
+                            <div class="col-md-2 col-4">
                                 <img class="d-block mx-auto mb-1" src="images/rubber.webp" alt="">
                                 <span class="text-dark fw-bold">Fit Design</span>
                             </div>

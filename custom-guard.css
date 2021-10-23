@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
+
+.font-oswald{
+	font-family: 'Oswald', sans-serif !important;
+}
+
 .banner-content-guard {
 	text-align: center;
 }
 .banner-content-guard h3 {
-	
+	font-size: 40px;
+	margin-right: 20px;
 	text-align:center;
 	display: block;
 	letter-spacing:0em;
@@ -25,8 +32,12 @@
 	width: 435px;
 }
 
-.w-600 {
+.w-760 {
 	width: 760px;
+}
+
+.w-600 {
+	width: 600px;
 }
 
 .w-250 {
@@ -62,7 +73,7 @@
 }
 
 .box-sugical-guard {
-	background: url(images/guard/gp3.jpg);
+	background: url(https://via.placeholder.com/900x600/7B3F00/000000);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	width: 960px;
@@ -70,4 +81,43 @@
 	padding: 20px;
 	color: #fff;
 	text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .box-sugical-guard {
+		background: url(https://via.placeholder.com/300x300/7B3F00/000000);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		width: 100%;
+		margin: 0 auto 10px;
+		padding: 20px;
+		color: #fff;
+		text-align: center;
+	}
+
+	.small-title-guard {
+		font-size:20px; 
+	}
+
+	.big-title-guard {
+		font-size:30px;
+	}
+
+	.banner-content-guard h3 {
+		font-size: 20px;
+		margin-right: 20px;
+		text-align:center;
+		display: block;
+		letter-spacing:0em;
+	}
+	.banner-content-guard h2 {
+		font-size:30px; 
+		text-align:center;
+		font-weight: bold;
+		display: inline-block;
+		margin: 50px 0 5px;
+		letter-spacing:0.25em;
+	}
+	
 }
