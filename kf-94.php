@@ -14,7 +14,7 @@
             </div>
             <div class="banner-content-kf94">
                 <h2>KF94 <span class="font-knewave red">K</span><span class="font-knewave orange">I</span><span class="font-knewave green">D</span><span class="font-knewave blue">S</span></h2>
-                <h3>4-PLY MASK-Double Protection</h3>
+                <h3 class="font-lexend">4-PLY MASK-Double Protection</h3>
                 <div class="produk-img">
                     <img class="w-435" src="images/k-94/kids1-3.png" alt="">
                 </div>
@@ -30,21 +30,21 @@
                 </div>
             </div>
             <div class="section-2 section-area-kf-94">
-                <h5 class="mt-5"><span class="title-info p-2 ">INFORMASI PRODUK</span></h5>
+                <h5 class="mt-5"><span class="title-info p-2">INFORMASI PRODUK</span></h5>
                 <div class="img-section-mask">
                     <img src="images/product-information.webp" alt="">
                 </div>
                 <div class="product-dest mb-4">
-                    <p>Verified license to manufacture and distribute from <b>Indonesian Ministry of Health.</b><br>Certified Bacteria Filtration Efficacy <b>BFE 99%</b> from Nelson Labs USA.<br>We also check our BFE result regularly in our lab to ensure the standard is implemented.</p>
+                    <p>Verified license to manufacture and distribute from <b>Indonesian Ministry of Health.</b><br>Certified Bacteria Filtration Efficacy <b>BFE 99%</b> from <b>Nelson Labs USA.</b><br>We also check our BFE result regularly in our lab to ensure the standard is implemented.</p>
                 </div>
                 <div class="col img-section-mask d-inline">
-                    <img class="w-250" src="images/img-table1.webp" alt="">
+                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
                 </div>
                 <div class="col img-section-mask d-inline">
-                    <img class="w-250" src="images/img-table1.webp" alt="">
+                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
                 </div>
                 <div class="col img-section-mask d-inline">
-                    <img class="w-250" src="images/img-table2.webp" alt="">
+                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
                 </div>
                 <!-- <div class="img-table-mask">
 				<div class="row">

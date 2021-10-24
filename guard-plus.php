@@ -134,7 +134,7 @@
                         </a>
                     </div>
                     <div class="big-title-guard font-oswald">GUARD<span class="red-guard">PLUS+</span></div>
-                    <div class="small-title-guard"><span class="badge rounded-pill bg-red-guard">4 PLY SURGICAL MASK</span></div>
+                    <div class="small-title-guard"><span class="badge rounded-pill bg-red-guard font-lexend">4 PLY SURGICAL MASK</span></div>
                     <div class="mx-auto">
                         <p>Made with top quality nonwoven with high permeability. Design for users' <br> ultimate safety and comfort and</p>
                         <div class="icon-tree mx-auto">
