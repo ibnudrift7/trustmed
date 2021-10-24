@@ -13,7 +13,7 @@
                 </a>
             </div>
             <div class="banner-content-kf94">
-                <h2>KF94 KIDS</h2>
+                <h2>KF94 <span class="font-knewave red">K</span><span class="font-knewave orange">I</span><span class="font-knewave green">D</span><span class="font-knewave blue">S</span></h2>
                 <h3>4-PLY MASK-Double Protection</h3>
                 <div class="produk-img">
                     <img class="w-435" src="images/k-94/kids1-3.png" alt="">
@@ -117,7 +117,7 @@
                         </a>
                     </div>
                     <div class="banner-content-kf94">
-                        <h2 class="text-dark">KF94 KIDS</h2>
+                        <h2 class="text-dark">KF94 <span class="font-knewave red">K</span><span class="font-knewave orange">I</span><span class="font-knewave green">D</span><span class="font-knewave blue">S</span></h2>
                         <h3 class="text-dark">4-PLY MASK-Double Protection</h3>
                     </div>
                     <div class="icon-tree tree-kf94 mx-auto">
