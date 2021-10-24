@@ -139,7 +139,7 @@
             </div>
             <div class="text-produk">
               <h4>FOUR LAYER NON-WOVEN EARLOOP</h4>
-              <h2>GUARD <span class="text-danger">PLUS+</span></h2>
+              <h2 class="font-oswald">GUARD <span class="red-guard">PLUS+</span></h2>
               <a href="guard-plus.php" class="btn-view-more">View more</a>
             </div>
           </div>
@@ -151,7 +151,7 @@
             </div>
             <div class="text-produk">
               <h4>4 LAYERS PROTECTION WITH DOUBLE FILTRATION</h4>
-              <h2>KF-94 KIDS</h2>
+              <h2>KF-94 <span class="font-knewave red">K</span><span class="font-knewave orange">I</span><span class="font-knewave green">D</span><span class="font-knewave blue">S</span></h2>
               <a href="kf-94.php" class="btn-view-more">View more</a>
             </div>
           </div>

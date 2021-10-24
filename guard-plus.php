@@ -13,8 +13,8 @@
                 </a>
             </div>
             <div class="banner-content-guard">
-                <h2 class="font-oswald">GUARD<span class="text-danger">PLUS+</span></h2><br>
-                <h3><span class="badge rounded-pill bg-danger">4 PLY SURGICAL MASK</span></h3>
+                <h2 class="font-oswald">GUARD<span class="red-guard">PLUS+</span></h2><br>
+                <h3><span class="badge rounded-pill bg-red-guard">4 PLY SURGICAL MASK</span></h3>
                 <div class="produk-img-guard">
                     <img class="w-435 my-5" src="images/guard/img2.png" alt="">
                 </div>
@@ -22,20 +22,23 @@
                     <p>TRUSTMED berinovasi dengan masker medis <strong>4 lapis</strong> untuk <strong>proteksi <br> maksimal.</strong> Masker lebih tebal dan nyaman untuk dipakai sehari-hari</p>
                     <a href="https://www.tokopedia.com/trustmed?source=universe&st=product" target="_blank" class="btn-buy">Buy Now</a>
                 </div>
-                <div class="produk-img-guard my-5">
-                    <img class="w-435" src="images/guard/img1.png" alt="">
+                <div class="section-1 section-area-guard">
+                    <h3 class=""></h3>
+                    <div class="produk-img-guard pt-5 my-5">
+                        <img class="w-435" src="images/guard/img1.png" alt="">
+                    </div>
                 </div>
             </div>
-            <div class="section-1 section-area">
-                <h3>Product Information</h3>
+            <div class="section-1 section-area-guard">
+                <h3 class="mt-5"><span class="title-info-guard p-2">INFORMASI PRODUK</span></h3>
                 <div class="img-section-mask my-5">
                     <img src="https://via.placeholder.com/300x500?text=Tabel+Informasi+Produk" alt="">
                 </div>
             </div>
-            <div class="section-2 section-area">
+            <div class="section-2 section-area-guard">
                 <h3><span>Certification</span></h3>
                 <div class="product-dest-guard my-5">
-                    <p>Verified license to manufacture and distribute from <strong class="text-danger">Indonesia Ministry of Health.</strong> <br> Certified Bacteria Filtration Efficacy <strong class="text-danger">BFE 99%</strong> from <strong class="text-danger">Nelson Labs USA.</strong> <br> We also check our BFE result regularly in our lab to ensure the standard is implemented</p>
+                    <p>Verified license to manufacture and distribute from <strong class="red-guard">Indonesia Ministry of Health.</strong> <br> Certified Bacteria Filtration Efficacy <strong class="red-guard">BFE 99%</strong> from <strong class="red-guard">Nelson Labs USA.</strong> <br> We also check our BFE result regularly in our lab to ensure the standard is implemented</p>
                 </div>
                 <div class="col img-section-mask d-inline">
                     <img class="w-250" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
@@ -81,13 +84,13 @@
                     </div>
                 </div>
             </div>
-            <div class="section-3 section-area">
+            <div class="section-3 section-area-guard mt-5">
                 <h3>Wear Instruction</h3>
                 <div class="img-section-mask">
                     <img class="w-50 my-5" src="images/guard/gbr-1.png" alt="">
                 </div>
             </div>
-            <div class="section-4 section-area">
+            <div class="section-4 section-area-guard mt-5">
                 <h3>Disposal Instruction</h3>
                 <div class="img-section-mask row justify-content-center my-5">
                     <div class="col-md-1 col-2">
@@ -130,23 +133,23 @@
                             </div>
                         </a>
                     </div>
-                    <div class="big-title-guard font-oswald">GUARD<span class="text-danger">PLUS+</span></div>
-                    <div class="small-title-guard"><span class="badge rounded-pill bg-danger">4 PLY SURGICAL MASK</span></div>
+                    <div class="big-title-guard font-oswald">GUARD<span class="red-guard">PLUS+</span></div>
+                    <div class="small-title-guard"><span class="badge rounded-pill bg-red-guard">4 PLY SURGICAL MASK</span></div>
                     <div class="mx-auto">
                         <p>Made with top quality nonwoven with high permeability. Design for users' <br> ultimate safety and comfort and</p>
                         <div class="icon-tree mx-auto">
                             <div class="row justify-content-center">
                                 <div class="col-3">
                                     <img class="rounded-circle d-block mx-auto" src="https://via.placeholder.com/80" width="" alt="">
-                                    <span class="text-dark fw-bold d-none d-md-block">Fit Design</span>
+                                    <span class="text-dark fw-bold d-none d-md-block mt-2">Fit Design</span>
                                 </div>
                                 <div class="col-3">
                                     <img class="rounded-circle d-block mx-auto" src="https://via.placeholder.com/80" width="" alt="">
-                                    <span class="text-dark fw-bold d-none d-md-block">Hypoallergenic</span>
+                                    <span class="text-dark fw-bold d-none d-md-block mt-2">Hypoallergenic</span>
                                 </div>
                                 <div class="col-3">
                                     <img class="rounded-circle d-block mx-auto" src="https://via.placeholder.com/80" width="" alt="">
-                                    <span class="text-dark fw-bold d-none d-md-block">BFE > 99%</span>
+                                    <span class="text-dark fw-bold d-none d-md-block mt-2">BFE > 99%</span>
                                 </div>
                             </div>
                         </div>

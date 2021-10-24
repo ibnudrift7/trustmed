@@ -20,6 +20,17 @@
     color: #519f99;
 }
 
+.title-info {
+	background-color: #fff;
+    border-style: solid;
+    border-color: #7f583f;
+    color: #7f583f;
+}
+
+.bg-brown {
+    background-color: #7f583f;
+}
+
 .banner-content-kf94 {
 	text-align: center;
 }

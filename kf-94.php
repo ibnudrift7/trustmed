@@ -23,14 +23,14 @@
                     <a href="https://www.tokopedia.com/trustmed?source=universe&st=product" target="_blank" class="btn-buy">Buy Now</a>
                 </div>
             </div>
-            <div class="section-1 section-area">
-                <h3><span>High Quality Triple Protection</span></h3>
+            <div class="section-1 section-area-kf-94">
+                <h1 class="text-white my-3"><span class="badge rounded-pill bg-brown">4PLY PROTECTION</span></h1>
                 <div class="img-section-mask mt-5">
                     <img class="w-435" src="images/k-94/kidsedit.png" alt="">
                 </div>
             </div>
-            <div class="section-2 section-area">
-                <h3><span>Product Information</span></h3>
+            <div class="section-2 section-area-kf-94">
+                <h5 class="mt-5"><span class="title-info p-2 ">INFORMASI PRODUK</span></h5>
                 <div class="img-section-mask">
                     <img src="images/product-information.webp" alt="">
                 </div>
