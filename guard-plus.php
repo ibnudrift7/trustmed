@@ -35,19 +35,19 @@
                     <img src="https://via.placeholder.com/300x500?text=Tabel+Informasi+Produk" alt="">
                 </div>
             </div>
-            <div class="section-2 section-area-guard">
+            <div class="section-2 section-area-guard-certification">
                 <h3><span>Certification</span></h3>
                 <div class="product-dest-guard my-5">
                     <p>Verified license to manufacture and distribute from <strong class="red-guard">Indonesia Ministry of Health.</strong> <br> Certified Bacteria Filtration Efficacy <strong class="red-guard">BFE 99%</strong> from <strong class="red-guard">Nelson Labs USA.</strong> <br> We also check our BFE result regularly in our lab to ensure the standard is implemented</p>
                 </div>
-                <div class="col img-section-mask d-inline">
-                    <img class="w-250" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
+                <div class="img-section-mask d-inline">
+                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
                 </div>
-                <div class="col img-section-mask d-inline">
-                    <img class="w-250" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat2" alt="">
+                <div class="img-section-mask d-inline">
+                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat2" alt="">
                 </div>
-                <div class="col img-section-mask d-inline">
-                    <img class="w-250" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat3" alt="">
+                <div class="img-section-mask d-inline">
+                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat3" alt="">
                 </div>
                 <!-- <div class="product-dest">
                     <p>Verified license to manufacture and distribute from <b>Indonesian Ministry of Health.</b><br>Certified Bacteria Filtration Efficacy <b>BFE 99%</b> from Nelson Labs USA.<br>We also check our BFE result regularly in our lab to ensure the standard is implemented.</p>
@@ -84,28 +84,28 @@
                     </div>
                 </div>
             </div>
-            <div class="section-3 section-area-guard mt-5">
+            <div class="section-3 section-area-guard-wear mt-5">
                 <h3>Wear Instruction</h3>
                 <div class="img-section-mask">
                     <img class="w-50 my-5" src="images/guard/gbr-1.png" alt="">
                 </div>
             </div>
-            <div class="section-4 section-area-guard mt-5">
+            <div class="section-4 section-area-guard-Instruction mt-5">
                 <h3>Disposal Instruction</h3>
-                <div class="img-section-mask row justify-content-center my-5">
-                    <div class="col-md-1 col-2">
+                <div class="img-section-mask row justify-content-center my-5 w-75 mx-auto">
+                    <div class="col-md-2 col-2">
                         <img class="w-100" src="images/guard/icon-1.png" alt="">
                     </div>
-                    <div class="col-md-1 col-2">
+                    <div class="col-md-2 col-2">
                         <img class="w-100" src="images/guard/icon-2.png" alt="">
                     </div>
-                    <div class="col-md-1 col-2">
+                    <div class="col-md-2 col-2">
                         <img class="w-100" src="images/guard/icon-3.png" alt="">
                     </div>
-                    <div class="col-md-1 col-2">
+                    <div class="col-md-2 col-2">
                         <img class="w-100" src="images/guard/icon-4.png" alt="">
                     </div>
-                    <div class="col-md-1 col-2">
+                    <div class="col-md-2 col-2">
                         <img class="w-100" src="images/guard/icon-5.png" alt="">
                     </div>
                 </div>

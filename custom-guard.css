@@ -77,6 +77,96 @@
     top: 10px;
 }
 
+.section-area-guard-certification h3 {
+	display: block;
+	text-align: center;
+	font-size:25px;
+	font-weight:bold;
+	letter-spacing:0em;
+	font-family: 'Open Sans', sans-serif;
+	position: relative;
+}
+.section-area-guard-certification h3:before {
+	content: " ";
+	border-bottom: 1px solid #000;
+	position: absolute;
+	left: 0px;
+	z-index: 9;
+	width: 42%;
+    height: 5px;
+    top: 10px;
+}
+.section-area-guard-certification h3:after {
+	content: " ";
+	border-bottom: 1px solid #000;
+	position: absolute;
+	right: 0px;
+	z-index: 9;
+	width: 42%;
+    height: 5px;
+    top: 10px;
+}
+
+.section-area-guard-wear h3 {
+	display: block;
+	text-align: center;
+	font-size:25px;
+	font-weight:bold;
+	letter-spacing:0em;
+	font-family: 'Open Sans', sans-serif;
+	position: relative;
+}
+.section-area-guard-wear h3:before {
+	content: " ";
+	border-bottom: 1px solid #000;
+	position: absolute;
+	left: 0px;
+	z-index: 9;
+	width: 40%;
+    height: 5px;
+    top: 10px;
+}
+.section-area-guard-wear h3:after {
+	content: " ";
+	border-bottom: 1px solid #000;
+	position: absolute;
+	right: 0px;
+	z-index: 9;
+	width: 40%;
+    height: 5px;
+    top: 10px;
+}
+
+.section-area-guard-Instruction h3 {
+	display: block;
+	text-align: center;
+	font-size:25px;
+	font-weight:bold;
+	letter-spacing:0em;
+	font-family: 'Open Sans', sans-serif;
+	position: relative;
+}
+.section-area-guard-Instruction h3:before {
+	content: " ";
+	border-bottom: 1px solid #000;
+	position: absolute;
+	left: 0px;
+	z-index: 9;
+	width: 39%;
+    height: 5px;
+    top: 10px;
+}
+.section-area-guard-Instruction h3:after {
+	content: " ";
+	border-bottom: 1px solid #000;
+	position: absolute;
+	right: 0px;
+	z-index: 9;
+	width: 39%;
+    height: 5px;
+    top: 10px;
+}
+
 .title-info-guard {
 	background-color: #fff;
     border-style: solid;
@@ -136,8 +226,16 @@
 		text-align: center;
 	}
 
+	.w-435 {
+		width: 300px;
+	}
+
+	.title-info-guard {
+		font-size: 20px;
+	}
+
 	.small-title-guard {
-		font-size:20px; 
+		font-size:27px; 
 	}
 
 	.big-title-guard {
@@ -145,19 +243,139 @@
 	}
 
 	.banner-content-guard h3 {
-		font-size: 20px;
+		font-size: 30px;
 		margin-right: 20px;
 		text-align:center;
 		display: block;
 		letter-spacing:0em;
 	}
 	.banner-content-guard h2 {
-		font-size:30px; 
+		font-size:35px; 
 		text-align:center;
 		font-weight: bold;
 		display: inline-block;
 		margin: 50px 0 5px;
 		letter-spacing:0.25em;
+	}
+
+	.section-area-guard h3 {
+		display: block;
+		text-align: center;
+		font-size:25px;
+		font-weight:bold;
+		letter-spacing:0em;
+		font-family: 'Open Sans', sans-serif;
+		position: relative;
+	}
+	.section-area-guard h3:before {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		left: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
+	}
+	.section-area-guard h3:after {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		right: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
+	}
+	
+	.section-area-guard-certification h3 {
+		display: block;
+		text-align: center;
+		font-size:25px;
+		font-weight:bold;
+		letter-spacing:0em;
+		font-family: 'Open Sans', sans-serif;
+		position: relative;
+	}
+	.section-area-guard-certification h3:before {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		left: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
+	}
+	.section-area-guard-certification h3:after {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		right: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
+	}
+	
+	.section-area-guard-wear h3 {
+		display: block;
+		text-align: center;
+		font-size:25px;
+		font-weight:bold;
+		letter-spacing:0em;
+		font-family: 'Open Sans', sans-serif;
+		position: relative;
+	}
+	.section-area-guard-wear h3:before {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		left: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
+	}
+	.section-area-guard-wear h3:after {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		right: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
+	}
+	
+	.section-area-guard-Instruction h3 {
+		display: block;
+		text-align: center;
+		font-size:25px;
+		font-weight:bold;
+		letter-spacing:0em;
+		font-family: 'Open Sans', sans-serif;
+		position: relative;
+	}
+	.section-area-guard-Instruction h3:before {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		left: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
+	}
+	.section-area-guard-Instruction h3:after {
+		content: " ";
+		border-bottom: 1px solid #000;
+		position: absolute;
+		right: 0px;
+		z-index: 9;
+		width: 0%;
+		height: 5px;
+		top: 10px;
 	}
 	
 }

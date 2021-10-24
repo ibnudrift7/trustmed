@@ -81,7 +81,7 @@
 	background-size: 100%;
     background-position: center;
 	width: 960px;
-	margin: 0 auto 10px;
+	margin: 10px auto 10px;
 	padding: 20px;
 	color: #fff;
 	text-align: center;
@@ -99,12 +99,12 @@
 
 @media screen and (max-width: 768px) {
     .box-kf94 {
-        background: url(images/k-94/kids1-1.jpeg);
+        background:  rgba(255,255,255,0.5), url(images/k-94/kids1-1.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
 		background-position: center;
         width: 100%;
-        margin: 0 auto 10px;
+        margin: 10px auto 10px;
         padding: 20px;
         color: #fff;
         text-align: center;
@@ -113,4 +113,13 @@
     .tree-kf94 span {
         font-size: 10px;;
     }
+
+    .banner-content-kf94 h2 {
+        font-size: 50px;
+    }
+
+    .banner-content-kf94 h3 {
+        font-size:16px; 
+    }
+    
 }
