@@ -76,6 +76,8 @@
                 <ul>
                   <li><a href="inguard-mask.php">INguard Mask</a></li>
                   <li><a href="surgical-mask.php">Surgical Mask</a></li>
+                  <li><a href="guard-plus.php">Guard Plus +</a></li>
+                  <li><a href="kf-94.php">KF-94 Kids</a></li>
                 </ul>
               </li>
             </ul>
