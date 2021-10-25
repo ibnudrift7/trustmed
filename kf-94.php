@@ -20,7 +20,7 @@
                 </div>
                 <div class="product-dest">
                     <p>A unique four layer structure <br> with double filtration technology. <br> Enhances filtration capacity and users' <br> comfort and breathability</p>
-                    <a href="https://www.tokopedia.com/trustmed?source=universe&st=product" target="_blank" class="btn-buy">Buy Now</a>
+                    <a href="https://www.tokopedia.com/trustmed/trustmed-inguard-mask-4-ply-gunmetal-grey-tali-putih" target="_blank" class="btn-buy">Buy Now</a>
                 </div>
             </div>
             <div class="section-1 section-area-kf-94">
@@ -31,20 +31,25 @@
             </div>
             <div class="section-2 section-area-kf-94">
                 <h5 class="mt-5"><span class="title-info p-2">INFORMASI PRODUK</span></h5>
-                <div class="img-section-mask">
-                    <img src="images/product-information.webp" alt="">
+                <div class="img-section-mask py-5">
+                    <img class="img img-fluid w-550" src="images/k-94/ntx-tableinfo.png" alt="">
                 </div>
                 <div class="product-dest mb-4">
                     <p>Verified license to manufacture and distribute from <b>Indonesian Ministry of Health.</b><br>Certified Bacteria Filtration Efficacy <b>BFE 99%</b> from <b>Nelson Labs USA.</b><br>We also check our BFE result regularly in our lab to ensure the standard is implemented.</p>
                 </div>
-                <div class="col img-section-mask d-inline">
-                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
-                </div>
-                <div class="col img-section-mask d-inline">
-                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
-                </div>
-                <div class="col img-section-mask d-inline">
-                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
+
+                <div class="maw-620 mx-auto d-block">
+                    <div class="row img-section-mask">
+                        <div class="col-md-4 col-4">
+                        <img class="my-1 img img-fluid" src="images/guard/draf-pn-1.png" alt="">
+                        </div>
+                        <div class="col-md-4 col-4">
+                        <img class="my-1 img img-fluid" src="images/guard/draf-pn-2.png" alt="">
+                        </div>
+                        <div class="col-md-4 col-4">
+                        <img class="my-1 img img-fluid" src="images/guard/draf-pn-3.png" alt="">
+                        </div>
+                    </div>
                 </div>
                 <!-- <div class="img-table-mask">
 				<div class="row">

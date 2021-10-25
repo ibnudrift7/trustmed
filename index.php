@@ -135,7 +135,7 @@
         <div class="col-md-6 mb-4">
           <div class="item-produk ing-pro">
             <div class="img-produk">
-              <img src="images/gp3.jpg" class="img-responsive" alt="">
+              <img src="images/p-prd-3.jpg" class="img-responsive" alt="">
             </div>
             <div class="text-produk">
               <h4>FOUR LAYER NON-WOVEN EARLOOP</h4>
@@ -147,7 +147,7 @@
         <div class="col-md-6">
           <div class="item-produk ing-pro">
             <div class="img-produk">
-              <img src="images/kids.jpeg" class="img-responsive" alt="">
+              <img src="images/p-prd-4.jpg" class="img-responsive" alt="">
             </div>
             <div class="text-produk">
               <h4>4 LAYERS PROTECTION WITH DOUBLE FILTRATION</h4>

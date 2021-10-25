@@ -20,34 +20,44 @@
                 </div>
                 <div class="product-dest">
                     <p>TRUSTMED berinovasi dengan masker medis <strong>4 lapis</strong> untuk <strong>proteksi <br> maksimal.</strong> Masker lebih tebal dan nyaman untuk dipakai sehari-hari</p>
-                    <a href="https://www.tokopedia.com/trustmed?source=universe&st=product" target="_blank" class="btn-buy">Buy Now</a>
+                    <a href="https://www.tokopedia.com/trustmed/masker-medis-4-ply-guard-plus-trustmed-hitam-black-mask" target="_blank" class="btn-buy">Buy Now</a>
+                    <div class="py-4"></div>
                 </div>
+
                 <div class="section-1 section-area-guard">
                     <h3 class=""></h3>
-                    <div class="produk-img-guard pt-5 my-5">
-                        <img class="w-435" src="images/guard/img1.png" alt="">
+                    <div class="py-4"></div>
+                    <div class="produk-img-guard mb-5 d-block mx-auto">
+                        <img class="w-636" src="images/guard/img1.png" alt="">
+                    </div>
+                    <div class="py-3"></div>
+                </div>
+
+                <div class="section-1 section-area-guard">
+                    <h3 class=""></h3>
+                    <div class="produk-img-guard mb-5 d-block mx-auto">
+                        <img class="w-585 mt-38" src="images/guard/prd-infon-guardpls.png" alt="">
                     </div>
                 </div>
             </div>
-            <div class="section-1 section-area-guard">
-                <h3 class="mt-5"><span class="title-info-guard p-2">INFORMASI PRODUK</span></h3>
-                <div class="img-section-mask my-5">
-                    <img src="https://via.placeholder.com/300x500?text=Tabel+Informasi+Produk" alt="">
-                </div>
-            </div>
+
             <div class="section-2 section-area-guard-certification">
                 <h3><span>Certification</span></h3>
                 <div class="product-dest-guard my-5">
                     <p>Verified license to manufacture and distribute from <strong class="red-guard">Indonesia Ministry of Health.</strong> <br> Certified Bacteria Filtration Efficacy <strong class="red-guard">BFE 99%</strong> from <strong class="red-guard">Nelson Labs USA.</strong> <br> We also check our BFE result regularly in our lab to ensure the standard is implemented</p>
                 </div>
-                <div class="img-section-mask d-inline">
-                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat1" alt="">
-                </div>
-                <div class="img-section-mask d-inline">
-                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat2" alt="">
-                </div>
-                <div class="img-section-mask d-inline">
-                    <img class="w-250 my-1" src="https://via.placeholder.com/300x500?text=Foto+Sertifikat3" alt="">
+                <div class="maw-620 mx-auto d-block">
+                    <div class="row img-section-mask">
+                        <div class="col-md-4 col-4">
+                        <img class="my-1 img img-fluid" src="images/guard/draf-pn-1.png" alt="">
+                        </div>
+                        <div class="col-md-4 col-4">
+                        <img class="my-1 img img-fluid" src="images/guard/draf-pn-2.png" alt="">
+                        </div>
+                        <div class="col-md-4 col-4">
+                        <img class="my-1 img img-fluid" src="images/guard/draf-pn-3.png" alt="">
+                        </div>
+                    </div>
                 </div>
                 <!-- <div class="product-dest">
                     <p>Verified license to manufacture and distribute from <b>Indonesian Ministry of Health.</b><br>Certified Bacteria Filtration Efficacy <b>BFE 99%</b> from Nelson Labs USA.<br>We also check our BFE result regularly in our lab to ensure the standard is implemented.</p>

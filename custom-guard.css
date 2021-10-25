@@ -60,10 +60,11 @@
 	letter-spacing:0em;
 	font-family: 'Open Sans', sans-serif;
 	position: relative;
+	width: 100%;
 }
 .section-area-guard h3:before {
-	content: " ";
-	border-bottom: 1px solid #000;
+	content: "";
+	border-bottom: 1px solid rgba(0,0,0, 0.15);
 	position: absolute;
 	left: 0px;
 	z-index: 9;
@@ -72,14 +73,26 @@
     top: 10px;
 }
 .section-area-guard h3:after {
-	content: " ";
-	border-bottom: 1px solid #000;
+	content: "";
+	border-bottom: 1px solid rgba(0,0,0, 0.15);
 	position: absolute;
 	right: 0px;
 	z-index: 9;
 	width: 37%;
     height: 5px;
     top: 10px;
+}
+.w-585{
+	max-width: 585px;
+}
+.w-636{
+	max-width: 630px;
+}
+.mt-38{
+	margin-top: -38px;
+}
+.maw-620{
+	max-width: 960px;
 }
 
 .section-area-guard-certification h3 {
@@ -180,7 +193,7 @@
 }
 
 .guard-plus {
-	background: url(https://via.placeholder.com/300x300/b29484/000000);
+	background: url('images/guard/background-st.png');
 	background-repeat: no-repeat;
   	background-size: cover;
   	background-attachment: fixed;
